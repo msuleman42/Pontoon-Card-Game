@@ -1,5 +1,4 @@
-package com.bham.pij.assignments.pontoon;
-
+// Munir Suleman
 public class testingCard {
 	
 	public static void main(String[] args) {
